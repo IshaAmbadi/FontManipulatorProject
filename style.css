@@ -1,0 +1,30 @@
+#headingTop {
+    font-size: 20px;
+    font-weight: 550;
+    width: 100%;
+    margin: 10px;
+    color: rgb(229, 229, 229);
+    background-color: rgb(97, 122, 116);
+}
+
+.note {
+    color: rgb(62, 69, 67);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+canvas {
+    border: 3px rgb(94, 112, 107) solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(61, 79, 74), 7px 9px 2px rgb(43, 57, 53);
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: aliceblue;
+    background-color: rgb(68, 96, 89);
+    text-align: center;
+    line-height: 3;
+}
